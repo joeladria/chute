@@ -6,6 +6,8 @@ Archival code from the 2017 Interactive Experience : _Nova_ : [Digital Parachute
 
 *Created by Joel Adria & Amelia Scott* 
 
+![Parachute in Action](parachute.jpg)
+
 * 10x Indidividual Arduino devices controlling LED pixels in the parachute
 * 1x Master "Handle" that is operable via bluetooth remote
 * Controllable light patterns that accompany classic parachute games, including a special "starry night" effect when inside the parachute "mushroom"
